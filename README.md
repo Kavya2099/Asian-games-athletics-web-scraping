@@ -43,7 +43,7 @@ This dataset contains two files.
 - National Olympic Committee - Full name of country
 - Other codes used - Other country code that has been used earlier
 
+## Links
+Dataset published in [Kaggle](https://www.kaggle.com/datasets/kavya2099/asian-games-athletics-winning-countries19512018)!
 
-Dataset is published in Kaggle: https://www.kaggle.com/datasets/kavya2099/asian-games-athletics-winning-countries19512018
-
-Medium Blog: https://medium.com/@Kavya2099/web-scraping-on-asian-games-data-using-beautiful-soup-7a6f776a3edc
+[Medium](https://medium.com/@Kavya2099/web-scraping-on-asian-games-data-using-beautiful-soup-7a6f776a3edc) Blog!
