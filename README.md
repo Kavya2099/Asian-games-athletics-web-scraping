@@ -45,3 +45,5 @@ This dataset contains two files.
 
 
 Dataset is published in Kaggle: https://www.kaggle.com/datasets/kavya2099/asian-games-athletics-winning-countries19512018
+
+Medium Blog: https://medium.com/@Kavya2099/web-scraping-on-asian-games-data-using-beautiful-soup-7a6f776a3edc
